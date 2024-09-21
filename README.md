@@ -1,5 +1,5 @@
-## Enter Name : Sam Israel D
-## Enter Register No. : 212222230128
+## Name : Sam Israel D
+## Register No. : 212222230128
 ## Experiment 
 ## Date : 21/09/2024
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
