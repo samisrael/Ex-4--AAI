@@ -1,6 +1,6 @@
 ## Name : Sam Israel D
 ## Register No. : 212222230128
-## Experiment 
+## Experiment 4
 ## Date : 21/09/2024
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
